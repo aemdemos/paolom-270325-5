@@ -1,0 +1,2767 @@
+{
+  "originUrl": "https://www.nrma.com.au",
+  "lastCrawled": "https://www.nrma.com.au/",
+  "urls": [
+    {
+      "url": "https://www.nrma.com.au/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "ca10155b90089b33c7e9e91d259ef8f248ad480f"
+    },
+    {
+      "url": "https://www.nrma.com.au/100year-celebration-offer-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/100year-celebration-offer-terms-and-conditions",
+      "id": "51f100c31915c58361e2f7943fcc5767faca40bc"
+    },
+    {
+      "url": "https://www.nrma.com.au/about-the-company",
+      "source": "SITEMAPS",
+      "targetPath": "/about-the-company",
+      "id": "3c25cf2caf3dc8756a24ba552dd711af78bb8f0d"
+    },
+    {
+      "url": "https://www.nrma.com.au/about-us",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us",
+      "id": "a34b6972557becb302f9066de2fd2f7ca0c9a16f"
+    },
+    {
+      "url": "https://www.nrma.com.au/about-us/careers",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/careers",
+      "id": "5d97fe47f7a82f739fc5e6012f77a1eec5168d99"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog",
+      "source": "SITEMAPS",
+      "targetPath": "/blog",
+      "id": "be74905c96c908ea71f1922bda18fd4958cc51e6"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/business",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/business",
+      "id": "d2d20543de0bea383ba78966ae39b4baf6d69a9d"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/business/6-things-to-ask-yourself-before-starting-a-new-business",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/business/6-things-to-ask-yourself-before-starting-a-new-business",
+      "id": "430afe60308cd8c64a9ee5be9df835538261a509"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/business/hobby-farm-boom",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/business/hobby-farm-boom",
+      "id": "78fc1d60bf3e785da3671b801d863d47af99a62c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/business/prevent-injuries-in-the-workplace",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/business/prevent-injuries-in-the-workplace",
+      "id": "31e8d8ab4fcd6ecd4e7c3fb0abac913200c70d6a"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/business/public-liability-insurance-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/business/public-liability-insurance-guide",
+      "id": "e9e771b0ed5293bfa6834c7a4a214d66e34caa8b"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/business/small-business-insurance-explained",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/business/small-business-insurance-explained",
+      "id": "f5a21437b03857188bf6c396cf6cfadbb81adca3"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/business/ways-to-prevent-tool-theft",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/business/ways-to-prevent-tool-theft",
+      "id": "4d81961fdb87c64c02617ceb944fd0fadefc7044"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community",
+      "id": "2e8b4f9f74723badcf23afbb7f7e370a4191f994"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/10-year-old-school-girl-helping-red-cross-earthquake-relief",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/10-year-old-school-girl-helping-red-cross-earthquake-relief",
+      "id": "04ace0a27775166dd0c3c26af439620ee30025e1"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/60-years-lifeline-answered-its-first-call-help-meet-ella",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/60-years-lifeline-answered-its-first-call-help-meet-ella",
+      "id": "07995da3bd429ac146c261f962a8253ad7b0921e"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/all-round-superstar-olympian-patty-mills",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/all-round-superstar-olympian-patty-mills",
+      "id": "6eb3dbf749bc055e55e0826ee6065bf796278d4c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/amazing-foster-mum-noelene-lever",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/amazing-foster-mum-noelene-lever",
+      "id": "a081d019defb0c6cc2b232caa1493b9af5e510f1"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/building-bridges-local-youth-senior-constable-ian-burns",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/building-bridges-local-youth-senior-constable-ian-burns",
+      "id": "04b379ffc0852221258f7b56eaaf56da4ac306b6"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/can-do-country-helping-people-live-connected-life",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/can-do-country-helping-people-live-connected-life",
+      "id": "e55169eee8cc3c30788522ee89a4bd5beb753d82"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/care-for-regional-breast-cancer-patients-mcgrath-foundation",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/care-for-regional-breast-cancer-patients-mcgrath-foundation",
+      "id": "feb83f3e0dd3ae533b1a7bd80d3c3a508993787c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/championing-koala-conservation-one-advocates-journey-help",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/championing-koala-conservation-one-advocates-journey-help",
+      "id": "dd2eb87de6b6a583a5baa3c9c5e704a75c8924ff"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/changing-lives-one-beat-time",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/changing-lives-one-beat-time",
+      "id": "706b8c4cb68a0e23bab3a6abd2140155e4b8a188"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/check-mental-health",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/check-mental-health",
+      "id": "82d375c1115718455231e2d30944dc22239e3864"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/colour-pink-colour-help",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/colour-pink-colour-help",
+      "id": "28504ade09ee4b35d49d74eac4e20344e708f9c3"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/daydream-machine-helping-kids-who-are-different-shine",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/daydream-machine-helping-kids-who-are-different-shine",
+      "id": "83e256bb50bfb45bea205ef39a49bac112b6ca11"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/dedicated-saving-lives-remarkable-journey-lifeblood",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/dedicated-saving-lives-remarkable-journey-lifeblood",
+      "id": "ce25c927a8db821f9823f2c4cfb90323481b7efe"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/dog-therapy-rufftrack-founder-david-graham",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/dog-therapy-rufftrack-founder-david-graham",
+      "id": "f84b4d6eed36787650d6192413adb1627a4800f5"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/every-moment-help-counts-when-it-comes-our-koala-population",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/every-moment-help-counts-when-it-comes-our-koala-population",
+      "id": "22bf6888c0f4b9b9795c5827811a26af886d417a"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/field-dreams-help-habit-runs-deep-bush",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/field-dreams-help-habit-runs-deep-bush",
+      "id": "0688123b4ac74d9466dd35462f350afd8eb8a6c7"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/fighting-fire-edwina-volunteer-nsw-rural-fire-service-rfs",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/fighting-fire-edwina-volunteer-nsw-rural-fire-service-rfs",
+      "id": "26d0829dc63a300fc641df8bb8990f0a349943f5"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/fire-inside-burning-desire-help",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/fire-inside-burning-desire-help",
+      "id": "0bff33edb56b4947b32cd3083798a4cb3634bf66"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/fire-inside-spud-its-personal",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/fire-inside-spud-its-personal",
+      "id": "332ee4897b0057205c6ae6cb688005f3f8fb0b49"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/fire-inside-unlikely-friendship",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/fire-inside-unlikely-friendship",
+      "id": "218a4e8e34a061db3018efd549f625c097335787"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/first-aid-kit-ready-action-lisa-and-darrell-bossley",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/first-aid-kit-ready-action-lisa-and-darrell-bossley",
+      "id": "ce7ed9cb8a61e04b00d5d7eebd2c11841248b893"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/grant-supported-local-cricket-clubs-resilience",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/grant-supported-local-cricket-clubs-resilience",
+      "id": "af656ca76dc68ddb5ef87165e7f4b974c15939b9"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/haka-life-founder-leon-ruri",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/haka-life-founder-leon-ruri",
+      "id": "7d24b77baf0d656e60b48dba70a50a30feb496ab"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/heartbreak-help-sydney-mum-races-save-babies-lives",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/heartbreak-help-sydney-mum-races-save-babies-lives",
+      "id": "e6f725b56614c069deaf9ae45110c6343a5ab06f"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/help-no-one-else-adam-nrma-insurance-assessor",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/help-no-one-else-adam-nrma-insurance-assessor",
+      "id": "5ca1d85cbd69bde135d953487aba7baf41ad3724"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/help-no-one-else-garry-nrma-insurance-assessor",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/help-no-one-else-garry-nrma-insurance-assessor",
+      "id": "5ff90d5838d49643b87d0fb7953569ffc645d6ab"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/help-no-one-else-mandy-nrma-insurance-assessor",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/help-no-one-else-mandy-nrma-insurance-assessor",
+      "id": "8af2a13fc43e1b3eeb9f22f0c4f1b483939c4025"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-beat-scourge-ocean-borne-plastic",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-beat-scourge-ocean-borne-plastic",
+      "id": "a55046832dbb5c2aa63e7fcb654e9596735f4c65"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-business-owning-mums-through-fires-floods-pandemic",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-business-owning-mums-through-fires-floods-pandemic",
+      "id": "1ed50d3ee08bdfc76525aafe1ab0bcb1a3fe90ef"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-hands-midst-bushfire-crisis",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-hands-midst-bushfire-crisis",
+      "id": "79411de4d79b681e950560a09ecca9562861aa99"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-hands-river-murray-floodwaters-rise",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-hands-river-murray-floodwaters-rise",
+      "id": "1c6b4743d9cac0c56ef4406e647be829d387d5ad"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-heal-country-indigenous-cultural-specialist",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-heal-country-indigenous-cultural-specialist",
+      "id": "4afde3ef92ded31e60c8ee719926a6062c7c757a"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-kids-change-their-future-and-world",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-kids-change-their-future-and-world",
+      "id": "d2603ba2dda89d6cf9edcc2b984bc5257cc0c229"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-men-speak-about-their-mental-health-lyndsay-walker",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-men-speak-about-their-mental-health-lyndsay-walker",
+      "id": "93289073948882a802cf10d6efdfd77e368b8052"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-mens-mental-health-cronulla-gropers",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-mens-mental-health-cronulla-gropers",
+      "id": "6fcc174616aee8d23fe2272a68221adc4caea275"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/helping-restore-local-cricket-club-its-former-glory",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/helping-restore-local-cricket-club-its-former-glory",
+      "id": "4fe9792fc062b78b5c9d1c5193275a97a3a89f5e"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/heroing-helpers-behind-our-cricketers",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/heroing-helpers-behind-our-cricketers",
+      "id": "07c8c1d59fadfdc6f8605149deb96ddf80f17544"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/heroing-helpers-behind-our-cricketers-part-2",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/heroing-helpers-behind-our-cricketers-part-2",
+      "id": "e0f76f4bdec483d86a3e95c6f033c620a232ac4c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/heroing-helpers-behind-our-cricketers-part-3",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/heroing-helpers-behind-our-cricketers-part-3",
+      "id": "29e4ba7485d9a8772fbe5b5d123ac4960127dbb2"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/heroing-helpers-behind-our-cricketers-part-4",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/heroing-helpers-behind-our-cricketers-part-4",
+      "id": "fb68fcfffa0c57c18ed3e7393110f3a69d1e57dc"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/homeless-helping-others-nourishing-community-food-hope",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/homeless-helping-others-nourishing-community-food-hope",
+      "id": "efed9f3707dc54bb5f300e9b2aaec53a67fccd35"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/hope-face-tough-times-paul-hosking",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/hope-face-tough-times-paul-hosking",
+      "id": "f8fcd097f8f20c8db6f9d9310d15e2e18d9e26ad"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/how-community-garden-helps-opportunities-african-refugees",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/how-community-garden-helps-opportunities-african-refugees",
+      "id": "ed21f4aebb0a7e2e6681592ba411c889cba75ba2"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/how-mum-vina-helps-bring-community-together-through-cricket",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/how-mum-vina-helps-bring-community-together-through-cricket",
+      "id": "141d29013f18ee6f36e46dedbb274f044694977b"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/how-pink-test-helping-change-lives-one-nurse-time",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/how-pink-test-helping-change-lives-one-nurse-time",
+      "id": "ea9607c0376e263574d774317b314ab99fc22857"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/how-refugee-migrant-children-centre-helps-connect-technology",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/how-refugee-migrant-children-centre-helps-connect-technology",
+      "id": "63707356b1bc73050b1b7a21fe7832b5f21bcf39"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/how-trip-local-tip-started-cycle-help",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/how-trip-local-tip-started-cycle-help",
+      "id": "8ed566c9ba49a946d526283080d20500ce47201a"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/how-we-can-all-use-our-fire-inside-join-new-helpers",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/how-we-can-all-use-our-fire-inside-join-new-helpers",
+      "id": "5c57f09ff2f4d8e2ac8cfc1d71e5f4fc7b0fc74f"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/humans-and-horses-helping-each-other-after-loss",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/humans-and-horses-helping-each-other-after-loss",
+      "id": "f90b29a06e64ca2cead4fcda22bd7085ed5c02e3"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/john-lyle-montys-rest-continuing-save-wildlife-bushfire-victims",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/john-lyle-montys-rest-continuing-save-wildlife-bushfire-victims",
+      "id": "9c96b143f663405c41f10a9367fd68c210396acc"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/making-waves-erika-wades-kids-spectrum",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/making-waves-erika-wades-kids-spectrum",
+      "id": "12731ec2db475d4a44a6fe4cbc7f5a9e474c37bd"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/mariannes-colourful-cardies-brightening-kids-lives",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/mariannes-colourful-cardies-brightening-kids-lives",
+      "id": "7f80c40d225813619d904a4dcb3a4f6d4afdccad"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/meet-boating-barista-garry-white",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/meet-boating-barista-garry-white",
+      "id": "877b8276f6ec2e6273751e1f3bd6fe7ccf2495c7"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/mercy-mission-iags-phil-silverman",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/mercy-mission-iags-phil-silverman",
+      "id": "c49786ee757d14f4277d61b0561453f70c8d19c9"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/needing-help-giving-help",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/needing-help-giving-help",
+      "id": "55095279ec3867cd946c8372838119462a856cdd"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/nrma-helicopter-pilot-helps-nsw-rfs-geoff-sprod",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/nrma-helicopter-pilot-helps-nsw-rfs-geoff-sprod",
+      "id": "9109d99b9efc6e29fff721fdef0e00a355c4a734"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/nrma-insurance-grant-help-local-womens-cricket-club-tas",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/nrma-insurance-grant-help-local-womens-cricket-club-tas",
+      "id": "8d4e3db0ae0b3a0d466505e8863f68521074188a"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/nrma-insurance-helicopter-crew-playing-santa-near-forbes",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/nrma-insurance-helicopter-crew-playing-santa-near-forbes",
+      "id": "fb6694c14439b102a36e12fa02870d79a8757b82"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/one-mans-fight-against-fires-turns-building-better-homes",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/one-mans-fight-against-fires-turns-building-better-homes",
+      "id": "b416c49bb9e8350b61b63ef242c914bc3c069c94"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/out-fire-helping-brush-tailed-rock-wallabies-thrive-again",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/out-fire-helping-brush-tailed-rock-wallabies-thrive-again",
+      "id": "bf056597df23aa905194a327c9658f0ed4bfb6a8"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/over-40-years-one-mans-career-has-been-defined-helping-others",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/over-40-years-one-mans-career-has-been-defined-helping-others",
+      "id": "408a611d10fdd18bdc1ae6e8c157fe7027d1ee0c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/paying-it-forward-helps-more-people-experience-adelaide-fringe",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/paying-it-forward-helps-more-people-experience-adelaide-fringe",
+      "id": "eceb429a9c379938af24075a657a92b82b25cd3e"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/rebuilding-first-land-ground-indigenous-teachers",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/rebuilding-first-land-ground-indigenous-teachers",
+      "id": "e726388ff7211fb82ec9d57bfe93d974dca4d0da"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/redemption-songs",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/redemption-songs",
+      "id": "51f7cbd59178c8a2e3c6c8fb8cfc2db60add5c6d"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/replacing-fear-confidence-through-dedicated-bushfire-safety",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/replacing-fear-confidence-through-dedicated-bushfire-safety",
+      "id": "74d0c42b2b8f4da5ab3f12841e5fd2141d6a0da5"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/riding-wave-disabled-surfers-associations-gary-blaschke",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/riding-wave-disabled-surfers-associations-gary-blaschke",
+      "id": "14895628492f7641325469fb5b6ae0c63e8a3548"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/running-close-gap-marathon-runner-zibeon-fielding",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/running-close-gap-marathon-runner-zibeon-fielding",
+      "id": "b362dd9e5bb4963753748cb6b2f9907bf53ee7bf"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/same-wavelength",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/same-wavelength",
+      "id": "23c5a9303b04c59059e19a8f386857412a7a612c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/secret-harbour-dockers-giving-back-to-its-community",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/secret-harbour-dockers-giving-back-to-its-community",
+      "id": "88a437365ed8f8692b6d0ef3f342236b4313a273"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/sister-project-wa-founder-tracey-cave",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/sister-project-wa-founder-tracey-cave",
+      "id": "865dea8033810e03999674fc1d02fbb230d9484c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/small-helpers-big-hearts-get-storm-ready-nsw-ses",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/small-helpers-big-hearts-get-storm-ready-nsw-ses",
+      "id": "76efa05d42a7c96bd09074dc679f79d4101e264c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/supertee-creator-jason-sotiris",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/supertee-creator-jason-sotiris",
+      "id": "f5f4307ca33c57c255128b11af9f2182106ff354"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/support-bereaved-parents-christelle-le-baccon",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/support-bereaved-parents-christelle-le-baccon",
+      "id": "341f06d89c33f24ea0d693f2177f15d41e469165"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/team-billie-help-sea-turtle-recover-fatal-blood-disease",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/team-billie-help-sea-turtle-recover-fatal-blood-disease",
+      "id": "59d05a73f531f64df2bebe2935698a3197dadab1"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/turning-your-home-wildlife-haven",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/turning-your-home-wildlife-haven",
+      "id": "a0e971fcf0d23ab6e4b25db8e80b69c11a2b4284"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/water-joy-how-yusra-helping-encourage-western-sydney-women-swim",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/water-joy-how-yusra-helping-encourage-western-sydney-women-swim",
+      "id": "a26a773913d2d69f5a3f87f0d97e0eff29defd34"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/community/wombat-lovers-donna-and-jade-stepan",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/community/wombat-lovers-donna-and-jade-stepan",
+      "id": "deebfc73c836c5ce48d707d5dbf6ce00aa3324ce"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home",
+      "id": "8b9ba166abc5d01cbb790637bb099f9ff5728487"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/choosing-a-smart-home-security-system",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/choosing-a-smart-home-security-system",
+      "id": "cf4dcbe48e5f317b17da17c260859de486a645d1"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/do-i-need-landlord-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/do-i-need-landlord-insurance",
+      "id": "c96cf545795878ee3ae49c6d4baa9ee986a52881"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/fire-safety-tips-for-selecting-safe-toys",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/fire-safety-tips-for-selecting-safe-toys",
+      "id": "09b83f6d6dfcf47fb8552d4fc308c58541d89218"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/five-ways-to-prepare-bushfire-season",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/five-ways-to-prepare-bushfire-season",
+      "id": "12de2ebdbf6e66f624c2e924d4c18ab1fab812e1"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/home-insurance-owners-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/home-insurance-owners-guide",
+      "id": "da98be40c8831aedc73562242859c6b5bbb49e54"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/how-protect-your-rental-property",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/how-protect-your-rental-property",
+      "id": "7b7fbe3375d902bc35c0ed5f0e84768592617db6"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/how-why-you-need-to-make-home-inventory",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/how-why-you-need-to-make-home-inventory",
+      "id": "243eaed21c43890459930dcb328864191a941163"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/insurance-for-your-mobile-phone-and-electronic-devices",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/insurance-for-your-mobile-phone-and-electronic-devices",
+      "id": "bc23501a6c31b25e6503fd1eae5a15fbe48f41aa"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/is-your-home-underinsured",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/is-your-home-underinsured",
+      "id": "f0c2ff1f4c4d991de3eda0658b33d09b42b04dcd"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/landlord-vs-home-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/landlord-vs-home-insurance",
+      "id": "c6b66b5093921870c65ac36f591f82e4fb5c4aff"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/protect-your-outdoor-living-space",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/protect-your-outdoor-living-space",
+      "id": "8383c6446e6afeccd97c847fd2bba88788f51445"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/rental-property-maintenance-tips-landlords",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/rental-property-maintenance-tips-landlords",
+      "id": "a5c979c3b71dd76a734fbe443f59264dafe63abf"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/tree-and-branch-preparedness",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/tree-and-branch-preparedness",
+      "id": "4f46c45498597186d2fed83c7306ea2c0b7b66bf"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/understanding-7-star-energy-ratings",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/understanding-7-star-energy-ratings",
+      "id": "2d19950fb5a1aeb82d7f59d3e4e2bba3d02efcff"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/ways-to-secure-your-home-from-theft",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/ways-to-secure-your-home-from-theft",
+      "id": "b2748aed24c0f09779eee397bf61d763f6293d7f"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/what-is-insurance-and-how-does-it-work",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/what-is-insurance-and-how-does-it-work",
+      "id": "f413d43927504134477a6566864957a5a9526e54"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/what-to-do-if-a-flood-or-storm-has-damaged-your-home",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/what-to-do-if-a-flood-or-storm-has-damaged-your-home",
+      "id": "fdc8241137eb7920d5d02c614880434a36b6f43c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/in-the-home/what-to-expect-when-making-a-home-insurance-claim",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/in-the-home/what-to-expect-when-making-a-home-insurance-claim",
+      "id": "905c8063e56bed7d800f0e5b4290358493658756"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road",
+      "id": "592c3e11dda60aa76614845fecc80de3a6bc1581"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/5-essentials-to-keep-in-your-car",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/5-essentials-to-keep-in-your-car",
+      "id": "cd2bc459cb7e423bb774e680eaf5f6ae0dcd8bae"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/7-essential-road-trip-apps",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/7-essential-road-trip-apps",
+      "id": "45a517f82bebf4b9d3209c0e5a8b25f879f36196"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/7-ways-to-save-on-fuel",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/7-ways-to-save-on-fuel",
+      "id": "0fc6f09ea0cb3de3e60f6643fe11876093be9ed8"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/best-classic-car-shows-australia",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/best-classic-car-shows-australia",
+      "id": "c3a36adbcac406c90103c4d07d3f1e1bc4e652b2"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/choosing-the-right-car",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/choosing-the-right-car",
+      "id": "7f9437309753faf0451f6b11b99df209b37f09a0"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/ctp-vs-third-party-car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/ctp-vs-third-party-car-insurance",
+      "id": "9db4b636431901461112d56a83805b31c88f968c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/debunking-8-cycling-myths",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/debunking-8-cycling-myths",
+      "id": "e72eaf0d95ad8036105d6041fd42c9a3f65317b3"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/essentials-to-know-when-heading-on-a-ev-road-trip",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/essentials-to-know-when-heading-on-a-ev-road-trip",
+      "id": "a3c55395d0e9403989af5cd5f4ef6f08c7d767e9"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/ev-price-of-ownership",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/ev-price-of-ownership",
+      "id": "3c60e1923d454a4d34da6673ac5995d712cffb39"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/had-car-accident-not-your-fault",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/had-car-accident-not-your-fault",
+      "id": "9255986a065dae2c4bb0d90f835efabea5da1324"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/help-young-drivers-you-may-not-learn-driving-school",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/help-young-drivers-you-may-not-learn-driving-school",
+      "id": "29891b4b10cb5e4512cc14540d492b11682373d4"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-ctp-works-in-australia",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-ctp-works-in-australia",
+      "id": "aa23d5af54b1252403363d3fe72571d096c92b9f"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-much-is-your-vehicle-designed-to-carry-or-tow",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-much-is-your-vehicle-designed-to-carry-or-tow",
+      "id": "eb70c8cf6344a73e8b1a24f43bcc5f5437f159fa"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-to-check-your-tyres",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-to-check-your-tyres",
+      "id": "f6494eb4331f8fcf5d4f4899797865c660d29f76"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-to-choose-the-right-car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-to-choose-the-right-car-insurance",
+      "id": "e768cda2c97452c35d502a60b6599b04698bf06f"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-to-detail-your-car-at-home",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-to-detail-your-car-at-home",
+      "id": "0c057fe7aa4659422ab0393366fc7b25347d8d53"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-to-drive-on-sand-how-to-unbog-yourself",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-to-drive-on-sand-how-to-unbog-yourself",
+      "id": "ceffa18c779780495928ec67eff3aabab3134b7a"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-to-renew-ctp-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-to-renew-ctp-insurance",
+      "id": "1f67d2da298f0f6c9678cf39303651159216908e"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/how-to-safely-secure-your-bicycle-your-car",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/how-to-safely-secure-your-bicycle-your-car",
+      "id": "47c9393bcc6ba6037132f3b51e62bc875ddf4ed0"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/is-australia-ready-for-your-electric-vehicle",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/is-australia-ready-for-your-electric-vehicle",
+      "id": "1e1793385129540994d408a3a92c839aa69abed6"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/is-it-illegal-eat-or-drink-while-driving",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/is-it-illegal-eat-or-drink-while-driving",
+      "id": "ddc45887ac85a7083d74872b03394e283bb8adad"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/no-garage-heres-how-help-protect-your-car",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/no-garage-heres-how-help-protect-your-car",
+      "id": "e52e4c135ea68cd875a3cea1268d034ae6404f6f"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/outdated-fines-modern-times",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/outdated-fines-modern-times",
+      "id": "affbcb23381bb8853d01ef3db32ded5a54d2e0ed"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/parked-car-accident-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/parked-car-accident-guide",
+      "id": "5d36cc3f743beeb2598b1c535f4ebec36122a09e"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/pink-slip-blue-slip-green-slip",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/pink-slip-blue-slip-green-slip",
+      "id": "c67898f019d0f552446ba2ad858a832339df5482"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/preventing-car-theft",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/preventing-car-theft",
+      "id": "f292c288bbaf2aaa31a8a4148a7dfca1c694b090"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/road-rules-you-might-have-missed",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/road-rules-you-might-have-missed",
+      "id": "b1b2936d7ed107659c183fbde31edd76855c7d41"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/roundabout-rules-101",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/roundabout-rules-101",
+      "id": "1361e7bfbeb52a93dd5b7c0d9a8f454f52361ada"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/teaching-your-teen-to-drive",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/teaching-your-teen-to-drive",
+      "id": "fef6e87b86ab67344d56681708aeab654937c562"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/things-know-when-driving-on-dirt",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/things-know-when-driving-on-dirt",
+      "id": "06d58352341feef076766802bc93870a23056e2a"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/types-of-evs",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/types-of-evs",
+      "id": "4c0ba7fef3e1c50ef08b8d8e85629718d57075e7"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/understanding-hailstorm-car-covers",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/understanding-hailstorm-car-covers",
+      "id": "2bbbbadb683d101f84fe247b63e8745905190665"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/used-car-buying-tips",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/used-car-buying-tips",
+      "id": "6f8cff7353f5f9498ffed29f4233b2bbb779a3fc"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/watch-out-wildlife-about-tips-for-safer-road-trips",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/watch-out-wildlife-about-tips-for-safer-road-trips",
+      "id": "210f5552c5bc525df5ff3eea7f289eb16ae18895"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/what-do-all-those-buttons-your-car-do",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/what-do-all-those-buttons-your-car-do",
+      "id": "b54cddf2d61c08eb432f1c0a5109fb741d6fbe2c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/what-is-the-deal-with-double-demerits",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/what-is-the-deal-with-double-demerits",
+      "id": "939adce5475d6917881acada79c0d78f8a48753d"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/what-to-do-if-your-car-overheats",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/what-to-do-if-your-car-overheats",
+      "id": "1349346215a07836c4baddbd4ddc0252e6d54b0c"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/on-the-road/why-do-i-need-ctp-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/on-the-road/why-do-i-need-ctp-insurance",
+      "id": "7ad5e0227537d97c7d25aa3efedbe5c9df0d9d77"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle",
+      "id": "298b81f6d8b286e21633d5240b50a5c73ad736e3"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/5-most-unique-caravans-boats",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/5-most-unique-caravans-boats",
+      "id": "2f20fff686c49e6851c7e461dd9a0245aa69a5d2"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/6-safety-tips-for-your-next-overseas-trip",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/6-safety-tips-for-your-next-overseas-trip",
+      "id": "a31268540988163fbaded58e56cff97c024b87f1"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/australian-standards-for-lifejackets",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/australian-standards-for-lifejackets",
+      "id": "f4a6fc8d5ea0f1c935907209862668326dde321f"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/bicycle-riding-rules-you-need-know-about-your-state",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/bicycle-riding-rules-you-need-know-about-your-state",
+      "id": "aeb679b0de7ab8a4d9a36095b0b131f7e4710f15"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/caravan-camper-trailer-campervan-or-motorhome-whats-right-choice-your-family",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/caravan-camper-trailer-campervan-or-motorhome-whats-right-choice-your-family",
+      "id": "ee1813a0104c6abd477d1688202e63a06008806b"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/first-boat-buying-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/first-boat-buying-guide",
+      "id": "6b2a2b0e2de8de162503f3d92539b8d3fe5942a3"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/how-protect-your-caravan-awning",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/how-protect-your-caravan-awning",
+      "id": "48a822db86c20f7b48b45884dc5dd5b5bc0e8344"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/make-travelling-your-pet-treat",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/make-travelling-your-pet-treat",
+      "id": "cabeeb47e4cb3a26fb374ae4549234f6bfc9a3a5"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/pet-friendly-stays-stops-for-your-next-road-trip",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/pet-friendly-stays-stops-for-your-next-road-trip",
+      "id": "e9b2a4cd740b673df99e0605079cda8a13cf4a26"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/road-safety-essentials-for-your-road-trip",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/road-safety-essentials-for-your-road-trip",
+      "id": "cd37a51e30ca18f8a3d1ede54f57547ce595b9fa"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/understanding-travel-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/understanding-travel-insurance",
+      "id": "b05223f6c771263a8f613665cb22a45100236d06"
+    },
+    {
+      "url": "https://www.nrma.com.au/blog/travel-lifestyle/what-are-costs-of-owning-boat",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/travel-lifestyle/what-are-costs-of-owning-boat",
+      "id": "3997e1454a33bb6924b6f6f2a39d17b621d83f04"
+    },
+    {
+      "url": "https://www.nrma.com.au/boat-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/boat-insurance",
+      "id": "e9cc1057020a1d53f0461401919d929373bd1de1"
+    },
+    {
+      "url": "https://www.nrma.com.au/book-appointment",
+      "source": "SITEMAPS",
+      "targetPath": "/book-appointment",
+      "id": "0e28e7e972c4ef7a4d1ac4c444ea8021be340a17"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/act-mai-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/act-mai-insurance",
+      "id": "53c97355b33e9851a9d21607d5ad25021f47aeba"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/boat-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/boat-insurance",
+      "id": "f0f69720b2e74245d446ef78c505946b3e603fb5"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/business-insurance-hospitality",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/business-insurance-hospitality",
+      "id": "492ff3105a7235611449bec89e88c0eea8ede79c"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/business-insurance-professionals-consultants",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/business-insurance-professionals-consultants",
+      "id": "5c8083ac4e7190b38f7a2ad2f5db03ae50621040"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/business-insurance-tradespeople",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/business-insurance-tradespeople",
+      "id": "4a54c4718fcf8c95b4dffa2844c9f2b5f6d75d89"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/car-insurance",
+      "id": "e2561f17b3e2ba2e80030312c4659a2ef7cc94bf"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/caravan-trailer-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/caravan-trailer-insurance",
+      "id": "9a2da7ad5a53f1b8a7fce14eb66ff172d5592cdd"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/ctp-green-slip-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/ctp-green-slip-insurance",
+      "id": "d76eefe6fa6a4ad38631b8d8608867ccf8361df7"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/farm-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/farm-insurance",
+      "id": "b263050bde8cfae498395bf2f1994723f7703196"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/home-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/home-insurance",
+      "id": "bab7bb564e76bf16da84f698a570bc7480bcb135"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/landlord-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/landlord-insurance",
+      "id": "10b877bafa7632f54ae48c5ea136256f4a9acf8f"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/motorcycle-scooter-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/motorcycle-scooter-insurance",
+      "id": "5b7e7f2c9489a96664b606a2381657862ebca20d"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/motoring-services",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/motoring-services",
+      "id": "4ea21f4879590a46e0df0b76b24be4c69d73e806"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/retail-business-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/retail-business-insurance",
+      "id": "f689d186bbcbae287850512ddb2c785c899d7091"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/travel-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/travel-insurance",
+      "id": "baae5507d13cd20637d7a38018a2d653b4e68da8"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-capability/veteran-vintage-classic-vehicle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-capability/veteran-vintage-classic-vehicle-insurance",
+      "id": "c7bbd8388f81a4b1af702d6e451bf5ce4ad64fc8"
+    },
+    {
+      "url": "https://www.nrma.com.au/branch-language",
+      "source": "SITEMAPS",
+      "targetPath": "/branch-language",
+      "id": "0387a1eee4b46270cc9865f072b01543741f8a2b"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder",
+      "id": "1bb0af6234716501085d593467909702cef81eb8"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/albury",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/albury",
+      "id": "d070730ae8730c46ce6992184d9ffce78dfd88b0"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/armidale",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/armidale",
+      "id": "08a28641ff4d4efea2e62a597e2036ad08a829e3"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/ballina",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/ballina",
+      "id": "7347c66c002871095a58715f9c44d486a67405d2"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/batemans-bay",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/batemans-bay",
+      "id": "da0e6c43ccea6385d4b5001b5219627fe6ae58ed"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/bathurst",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/bathurst",
+      "id": "87858b4f854636d5dfbfddfa783b37ec730022a7"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/bega",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/bega",
+      "id": "69a020b4bcac95c21c6cdf0a3f7bef6fbb11cdff"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/blacktown",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/blacktown",
+      "id": "1d4d0eabba5a0fbe16f835ba686599a803dd5cc6"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/bowral",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/bowral",
+      "id": "b0088d2d1f99767da75930f3de0a7235db0080c0"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/burwood",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/burwood",
+      "id": "71bc3ee46f1d96784f78bf3ab71ba7dd296ae0da"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/casino",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/casino",
+      "id": "56a1f3e633a45c0d46bb70b865d1d10d6d1461e2"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/central-coast",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/central-coast",
+      "id": "a97f544e5fd76d17ed86a30216cbec4263df7dc3"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/cessnock",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/cessnock",
+      "id": "a795abecfc85583b2c3c59349b3fdc85699e451d"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/charlestown",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/charlestown",
+      "id": "acd3b02f6df28931afa6478dc0ad5e04e2bc7dac"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/chatswood",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/chatswood",
+      "id": "416852b3ed61c52ec5b76c860a071a7e8919908a"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/coffs-harbour",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/coffs-harbour",
+      "id": "467cb1d0eb33438ccc6c96c8f55f3c54e2a36e12"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/cowra",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/cowra",
+      "id": "d8a4de061675cc6dceb2171b741455bea91f055a"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/dubbo",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/dubbo",
+      "id": "9f53d32c7600fc3436ec35b747f9205dd1ff98ee"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/forbes",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/forbes",
+      "id": "46deee7068fe838841f029707d906f88fc141884"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/forster",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/forster",
+      "id": "6aebf839ce6dc8dd6071c7d58f5d8616bb3bae11"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/goulburn",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/goulburn",
+      "id": "187e90be9c53f3c85ada2ab01d28e05ca62e6867"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/grafton",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/grafton",
+      "id": "6130ce3e7bc3f0018463dac003d7beb43f6e996d"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/griffith",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/griffith",
+      "id": "13388954002733aa1f0038bbc64b60f228da0b07"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/gunnedah",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/gunnedah",
+      "id": "62663fbf505d729f15c8135322fd82477158eeab"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/hornsby",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/hornsby",
+      "id": "24d6098b270cf1ecc3e922feb7442f5eaa739caa"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/hurstville",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/hurstville",
+      "id": "ce2298bf84e43302b622ff205bf9807df553507e"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/inverell",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/inverell",
+      "id": "d4de8459b8d08e88275a2984f9a49ad91d41695c"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/kempsey",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/kempsey",
+      "id": "7c585bd259233178e970f211307675533782062e"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/laurieton",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/laurieton",
+      "id": "d9b77fe9dd1ec71db312781a365f1f6c0f8119ed"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/lithgow",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/lithgow",
+      "id": "861543ccb00c40f7b1a653f5600def655cffa710"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/liverpool",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/liverpool",
+      "id": "3296347f3be18013647e54315271b44ac7e61477"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/maclean",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/maclean",
+      "id": "fa1439b50cffb607e171b322533f65cb5e0ce917"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/maitland",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/maitland",
+      "id": "b4ced358aadb30eb0268b68427c5857006a57a8b"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/marrickville",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/marrickville",
+      "id": "f0c604f051b47422c06602eb5ed86fc16bc696e6"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/merimbula",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/merimbula",
+      "id": "c6d2ea5ab3a8f5994a5f53c6eeddb350de3e88f5"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/merrylands",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/merrylands",
+      "id": "77df6095aeea63c08269f6319e4d45b8b24a8de8"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/moruya",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/moruya",
+      "id": "d6f8feeba54713521bdea8ecdf01478b1cf47ae9"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/mudgee",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/mudgee",
+      "id": "6622ae8ed3e37f7a47d1f13a0f187a89a9ab828b"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/murwillumbah",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/murwillumbah",
+      "id": "9fc476ae4b29a2e2f82266f77d553b9547899467"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/muswellbrook",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/muswellbrook",
+      "id": "e00658f364f804bac075c1eacde66ff5b99b3cfb"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/nambucca-heads",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/nambucca-heads",
+      "id": "fe5beabddadfeb552d8b1ed7b4de515339623dc9"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/narellan",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/narellan",
+      "id": "68a7a3a167d5de0b84a5bc3b4248902513f421f3"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/narrabri",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/narrabri",
+      "id": "dd70283eea74e5435903248fc194469fa7f57e08"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/narrandera",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/narrandera",
+      "id": "fa829d0d83c16b002738db866b517dba8e55deff"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/nowra",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/nowra",
+      "id": "c9370c827f8968fe8ca3d287eb711b6444b3fc54"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/orange",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/orange",
+      "id": "84706dcc86d61dfe281b95aad303858304e86bed"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/parkes",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/parkes",
+      "id": "f78912df14a7784c6854cc0aa3d477ff57af419b"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/parramatta",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/parramatta",
+      "id": "d64ef648a2be87257e823fbbe222fdd01431f96d"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/perth",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/perth",
+      "id": "3e75f13bf3784572dab166104ae19c0d0eb68e3d"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/picton",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/picton",
+      "id": "7fcfccf60f94efa5604a1f9ad0bf300dcdaa9dbb"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/port-macquarie",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/port-macquarie",
+      "id": "8a5de405c106a12f0990e90054d7c12af3b50a13"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/queanbeyan",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/queanbeyan",
+      "id": "cdfcfa9d564ac71312a70f38eac8dea3d9570f03"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/richmond",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/richmond",
+      "id": "fab50ee0e5982633c3fdff7ef542a0ee3522c0a6"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/salamander-bay",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/salamander-bay",
+      "id": "6257f42a875f80c97bfe8b8fd07f7310d9f4deca"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/shellharbour",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/shellharbour",
+      "id": "0ddbb21ee5d09492b94723212020dadd19ff54c1"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/singleton",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/singleton",
+      "id": "1e300194dd45132387976470af456043f00ea4da"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/springwood",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/springwood",
+      "id": "ffce770bd38538c08c9580c6e11fc3925a18bfad"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/tamworth",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/tamworth",
+      "id": "9177b20684940798266c63e9609608bec1b67917"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/taree",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/taree",
+      "id": "a917016919490623c92e9a5ca7ff33e21f954090"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/tumut",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/tumut",
+      "id": "887803f7b630d70ef80acd46f8db6e187f805055"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/tweed-heads",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/tweed-heads",
+      "id": "a4f222187e99c79d6a0e425db353ffad8bb6c5aa"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/ulladulla",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/ulladulla",
+      "id": "ea2a702288828209e2f776c9fe67ad0e94728233"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/vincentia",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/vincentia",
+      "id": "27d49ca00896038d7315c38aed5e60a2e2f741bb"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/wagga-wagga",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/wagga-wagga",
+      "id": "766a7123f0b27e96f021f43d0f45ec631d8e9a67"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/walcha",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/walcha",
+      "id": "d7f3ae7d4b33acc1d078e9c02769a0a8d154f881"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/wauchope",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/wauchope",
+      "id": "3639c6646e6cb3b5234529dc20c73dfecd69a7f0"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/woolgoolga",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/woolgoolga",
+      "id": "57be8c4af1d7fab1cd4771d02bfc3e082a30420b"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/woonona",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/woonona",
+      "id": "b1940a2b70c17c7f75da8ba9931b83cdb4f3f0bf"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/yass",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/yass",
+      "id": "9dee50bdba7b16ea297b7bf6d29d8c604643e408"
+    },
+    {
+      "url": "https://www.nrma.com.au/branches-finder/branch/young",
+      "source": "SITEMAPS",
+      "targetPath": "/branches-finder/branch/young",
+      "id": "33dc3e00e46ae41e4b02c8410bddb3b951e17041"
+    },
+    {
+      "url": "https://www.nrma.com.au/bushfireready",
+      "source": "SITEMAPS",
+      "targetPath": "/bushfireready",
+      "id": "9220af3c0493a963e17d5a94bd8977d465ad5d8a"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance",
+      "id": "314a03f9f44ee3b314ab5c0728ea72c2af83351a"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance-online-offer-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance-online-offer-terms-and-conditions",
+      "id": "e990fba3d44a09a6969b59129ccb845c7357038e"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/businesspartnerships",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/businesspartnerships",
+      "id": "dbb5e8c4883a700d239fff8eaf8037af57de1ff8"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/businesspartnerships/myoboffer",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/businesspartnerships/myoboffer",
+      "id": "030fb0371ff94a68f454344b0dab4308697ddd6e"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/cleaners",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/cleaners",
+      "id": "bd3ec57ac8bb8e1184c4e01d9d7dccff2e99b4f7"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/commercial-motor-vehicle",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/commercial-motor-vehicle",
+      "id": "7c7f3c470f0586ec43a8aa00d805725dbace3deb"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/domestic-services-workers",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/domestic-services-workers",
+      "id": "3bb4af8c81e162823c6ddb5c6c9681d7eb1ace61"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/expert-advice",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/expert-advice",
+      "id": "1c4da0a934a113a64ef427ff8f048689611f0229"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/farm-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/farm-insurance",
+      "id": "ca952a8885795c28a52d0db9bc5bd9def9bb6602"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/health-medical-business",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/health-medical-business",
+      "id": "be46d46067b447d02fc57fac42fdcc7b96fa9795"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/home-based-business",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/home-based-business",
+      "id": "51df57c5f09130475ec3945c8435be5019e08f30"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/hospitality-restaurant-cafe",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/hospitality-restaurant-cafe",
+      "id": "c2579845ac56cfec4aa76a575498208fafa0e8ce"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/industries",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/industries",
+      "id": "026eeabce9b1448315c393b7602bcbeee553d40f"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/motor-trade-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/motor-trade-insurance",
+      "id": "5c9671490a49a39cf0cc4479525831d1e547a2c4"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/offer-terms-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/offer-terms-conditions",
+      "id": "9cb9aa717ed4fce6915ea984d16a9bc3cb4f2758"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/professional-indemnity",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/professional-indemnity",
+      "id": "7bb1f5d51c00125c9c02f90735562f0ee5607a13"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/professionals",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/professionals",
+      "id": "ebcee4e5f0b67051084264e3e915e8233bf38cc6"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/public-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/public-liability-insurance",
+      "id": "7cb80ea5144f7e2f771d52cf8968e2b28641e84c"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/retailers",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/retailers",
+      "id": "2b400020740a7f4932f2f6dd3abd8734a24446de"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/tradie",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/tradie",
+      "id": "b8563c175c22a34b5f401d001d9579724f4b429b"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/tradie/carpenter",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/tradie/carpenter",
+      "id": "91d86624a2f7a8a71ca49142ddb23aacaa6bb0e1"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/tradie/electrician",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/tradie/electrician",
+      "id": "9c54f15d2feece540df33cf7c1fa5e41412918aa"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/tradie/flooring-tilers",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/tradie/flooring-tilers",
+      "id": "914ff0a3a50b8e366877579af8a0cb6c22d0a0f0"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/tradie/handyman",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/tradie/handyman",
+      "id": "8b9513568e5e2a759ae2fc3ccfb9296f2dd48dc1"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/tradie/lawn-mowing-services-gardening",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/tradie/lawn-mowing-services-gardening",
+      "id": "928253b4ab85b1deb84e76153b0c19979cd9509c"
+    },
+    {
+      "url": "https://www.nrma.com.au/business-insurance/tradie/plumbers",
+      "source": "SITEMAPS",
+      "targetPath": "/business-insurance/tradie/plumbers",
+      "id": "8988931a9fef5c1b0639a18f214ad046d8b62462"
+    },
+    {
+      "url": "https://www.nrma.com.au/buy-new-policy-earn-points-wa-sa-nt-offer-terms-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/buy-new-policy-earn-points-wa-sa-nt-offer-terms-conditions",
+      "id": "770985b25c716952befe117016c18ff8f9c97da4"
+    },
+    {
+      "url": "https://www.nrma.com.au/buzz-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/buzz-insurance",
+      "id": "689efbd439ef7979e980863c1af054b6201302ee"
+    },
+    {
+      "url": "https://www.nrma.com.au/cancel-appointment",
+      "source": "SITEMAPS",
+      "targetPath": "/cancel-appointment",
+      "id": "fba9c2ffd616d504ac71e4aad907d3f9ea4d99d7"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance",
+      "id": "f3ca750dafe20b529b987d8ba5fe0c56cb43fa47"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/act",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/act",
+      "id": "3c32f74070758bd9e341e243930a17338d945fa0"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/classic-car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/classic-car-insurance",
+      "id": "5c9801dd5e8ea7fe9c0fda3c5f523868f052ad47"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/comprehensive-basics",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/comprehensive-basics",
+      "id": "1b849871f6fd2f004dea14d79c760cd18d7b48e4"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/comprehensive-car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/comprehensive-car-insurance",
+      "id": "ddec1c097fad36032edd85c4074c74978f118e32"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/comprehensive-plus",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/comprehensive-plus",
+      "id": "2fb10027f4f7aeead733a3cc6e5992c7adae4097"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/nsw",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/nsw",
+      "id": "5fe31b60f0e7ca33a002767142d5d007eb6623eb"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/nt",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/nt",
+      "id": "69dba1a629566dfb7c830b43c78295306bd2576c"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/qld",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/qld",
+      "id": "435fe3d0bd13c4ac36518a7aa1c772519552de08"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/sa",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/sa",
+      "id": "5c70a8f74832618e2440870e19c5de257abfc99d"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/tas",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/tas",
+      "id": "878098a03a5233e8728460179de33ed6d13d0f75"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/third-party-fire-theft-car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/third-party-fire-theft-car-insurance",
+      "id": "31c2a2136b2f884f519dacfa5234373d75f8a482"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/third-party-property-damage-car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/third-party-property-damage-car-insurance",
+      "id": "c7fd8cb463ce282cc8bd7147ee0cb0e8b13f6ee9"
+    },
+    {
+      "url": "https://www.nrma.com.au/car-insurance/wa",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/wa",
+      "id": "9788512742106002ab98ce46269fa72a9a836329"
+    },
+    {
+      "url": "https://www.nrma.com.au/caravan-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/caravan-insurance",
+      "id": "38ed931e407df43e0d9bf0dddc160bb98f7bedce"
+    },
+    {
+      "url": "https://www.nrma.com.au/caravan-insurance/caravan",
+      "source": "SITEMAPS",
+      "targetPath": "/caravan-insurance/caravan",
+      "id": "12040c232bf9ff192a059023bdb9a5d0ed967d25"
+    },
+    {
+      "url": "https://www.nrma.com.au/caravan-insurance/motorhome",
+      "source": "SITEMAPS",
+      "targetPath": "/caravan-insurance/motorhome",
+      "id": "25a11bac3fcd904ec221cadac3edf5d5855dff1a"
+    },
+    {
+      "url": "https://www.nrma.com.au/caravan-insurance/trailer",
+      "source": "SITEMAPS",
+      "targetPath": "/caravan-insurance/trailer",
+      "id": "4ebf6bbd70b5e60d70de9881fd1d116d9b41ebdf"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims",
+      "source": "SITEMAPS",
+      "targetPath": "/claims",
+      "id": "b1f69dc665c9830ce8ed20fc16e1b990bd5a9847"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/boat-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/boat-insurance",
+      "id": "aecd1a9b414ed2768f252a1c6953ed170c073d62"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/business-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/business-insurance",
+      "id": "360b3a7b98442d5de0190645a05aace701211996"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/car-insurance",
+      "id": "79e9707c9ca1443841baa85c3a4a6824a3a9f424"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/caravan-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/caravan-insurance",
+      "id": "420a1d91e729a3c5eef9c9d02f67bae9939ce6f0"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/ctp-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/ctp-insurance",
+      "id": "ad53744af58594a3dd2a0eb9037ac1a0e197d697"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/ctp-insurance/mai-insurance-act",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/ctp-insurance/mai-insurance-act",
+      "id": "2fbaeeeca3b01f5070085a1dbbbbd5823eb994a7"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/ctp-insurance/nsw",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/ctp-insurance/nsw",
+      "id": "0ab0f7727874d1881141590d331c140360abb849"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/ctp-insurance/south-australia",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/ctp-insurance/south-australia",
+      "id": "8526b2ee824f31ce69a80bf34b451ade38f39160"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/home-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/home-insurance",
+      "id": "8c74d3a57e8e1c4289ef738cf4454dad8147ad8a"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/income",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/income",
+      "id": "dfe06675dc428dee861b53dec2f19df420b02ba7"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/life-insurance",
+      "id": "df08a1ab9b910e9d7d672303e262aaabd5145ac2"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/motorcycle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/motorcycle-insurance",
+      "id": "588bc87911b5d0a8a97fc01879f605f7d8ec6c68"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/strata-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/strata-insurance",
+      "id": "90354cbf3cf29966fcbc601634b9837924e5571b"
+    },
+    {
+      "url": "https://www.nrma.com.au/claims/travel-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/claims/travel-insurance",
+      "id": "6070211cab3db7fbcc5969bd351830ededd3054d"
+    },
+    {
+      "url": "https://www.nrma.com.au/complaints-resolutions",
+      "source": "SITEMAPS",
+      "targetPath": "/complaints-resolutions",
+      "id": "b3f6e27fdf206325c2e1748d3c28d30f91daaceb"
+    },
+    {
+      "url": "https://www.nrma.com.au/consumer-alert",
+      "source": "SITEMAPS",
+      "targetPath": "/consumer-alert",
+      "id": "2b6ab3e28e47a69bbbeb8f76950776f04bf1126e"
+    },
+    {
+      "url": "https://www.nrma.com.au/contact-us",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us",
+      "id": "3f50c19cc36b0677d8f9555037eb606834c21ca8"
+    },
+    {
+      "url": "https://www.nrma.com.au/contact-us-form-sent",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us-form-sent",
+      "id": "2a106c9675b0c3ace62ab17b1ebae81f7a74d57f"
+    },
+    {
+      "url": "https://www.nrma.com.au/contact-us/hearing-speech-support-services",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us/hearing-speech-support-services",
+      "id": "542dc03cb9b56405d3ab2e53fd376d396d88ff73"
+    },
+    {
+      "url": "https://www.nrma.com.au/contact-us/message-us",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us/message-us",
+      "id": "1235694a053f1f5a9d2ad18b479274344559b055"
+    },
+    {
+      "url": "https://www.nrma.com.au/cricket",
+      "source": "SITEMAPS",
+      "targetPath": "/cricket",
+      "id": "e4c26e19f21925235dbf4a5753bd0487b1ce7b36"
+    },
+    {
+      "url": "https://www.nrma.com.au/cricket-pinktest",
+      "source": "SITEMAPS",
+      "targetPath": "/cricket-pinktest",
+      "id": "7fef2fd96f023fc61b807a60b0191b8cdf9d0424"
+    },
+    {
+      "url": "https://www.nrma.com.au/cricket/community-grant",
+      "source": "SITEMAPS",
+      "targetPath": "/cricket/community-grant",
+      "id": "c52771a3bef8c4c5b7afdec738f7967df39c162d"
+    },
+    {
+      "url": "https://www.nrma.com.au/ctp-claims-video",
+      "source": "SITEMAPS",
+      "targetPath": "/ctp-claims-video",
+      "id": "34bab676ebb56c09fe3b4a5eed50539f241f6525"
+    },
+    {
+      "url": "https://www.nrma.com.au/ctp-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/ctp-insurance",
+      "id": "ff024896e6727eeda422dd18cf7965bf7068a719"
+    },
+    {
+      "url": "https://www.nrma.com.au/ctp-insurance/compulsory-third-party-sa",
+      "source": "SITEMAPS",
+      "targetPath": "/ctp-insurance/compulsory-third-party-sa",
+      "id": "271bbcab9aa27144311246a66c25c30305cd706d"
+    },
+    {
+      "url": "https://www.nrma.com.au/ctp-insurance/ctp-green-slip-nsw",
+      "source": "SITEMAPS",
+      "targetPath": "/ctp-insurance/ctp-green-slip-nsw",
+      "id": "8c72827b64d83c776f367b10b62ea5b2f547259d"
+    },
+    {
+      "url": "https://www.nrma.com.au/ctp-insurance/mai-insurance-act",
+      "source": "SITEMAPS",
+      "targetPath": "/ctp-insurance/mai-insurance-act",
+      "id": "e6162d483998d8c68117f42174689c3fc84116c2"
+    },
+    {
+      "url": "https://www.nrma.com.au/customer-discounts",
+      "source": "SITEMAPS",
+      "targetPath": "/customer-discounts",
+      "id": "79cf268ef2383bf0c7ac4151bdf02de71a088205"
+    },
+    {
+      "url": "https://www.nrma.com.au/customer-remediation",
+      "source": "SITEMAPS",
+      "targetPath": "/customer-remediation",
+      "id": "17f84b427325c8f48650f64d9baf43f0af142ad4"
+    },
+    {
+      "url": "https://www.nrma.com.au/deceased-estates",
+      "source": "SITEMAPS",
+      "targetPath": "/deceased-estates",
+      "id": "99e2a57d105c658dc8d6d73f8313cc9bc80222fd"
+    },
+    {
+      "url": "https://www.nrma.com.au/digital-store-cards",
+      "source": "SITEMAPS",
+      "targetPath": "/digital-store-cards",
+      "id": "e830a2a0ae119cfbafa8bd445cb50e03b319c55e"
+    },
+    {
+      "url": "https://www.nrma.com.au/discount-may2024",
+      "source": "SITEMAPS",
+      "targetPath": "/discount-may2024",
+      "id": "c0df2f02a323f54563a0fefb781b9ba9b63bf58a"
+    },
+    {
+      "url": "https://www.nrma.com.au/earn-on-edocs-offer-terms-conditionsjune",
+      "source": "SITEMAPS",
+      "targetPath": "/earn-on-edocs-offer-terms-conditionsjune",
+      "id": "24224982495fb016acce30feb8266c772795b0f4"
+    },
+    {
+      "url": "https://www.nrma.com.au/esl-emergency-services-levy-explained",
+      "source": "SITEMAPS",
+      "targetPath": "/esl-emergency-services-levy-explained",
+      "id": "d7b48e1b7005ebcfe114cee90ad7d20284093498"
+    },
+    {
+      "url": "https://www.nrma.com.au/existing-customers",
+      "source": "SITEMAPS",
+      "targetPath": "/existing-customers",
+      "id": "dbf89f5d7e1eee84c4200fe5d336d7284f8eda64"
+    },
+    {
+      "url": "https://www.nrma.com.au/faq",
+      "source": "SITEMAPS",
+      "targetPath": "/faq",
+      "id": "90b8f42069f8a8dd6cd3bbbb3bd7def6fadb8b3e"
+    },
+    {
+      "url": "https://www.nrma.com.au/fdv-assistance",
+      "source": "SITEMAPS",
+      "targetPath": "/fdv-assistance",
+      "id": "17a3c81dffc61f0cde3a6f8111c13423e8a8be76"
+    },
+    {
+      "url": "https://www.nrma.com.au/feedback-complaints",
+      "source": "SITEMAPS",
+      "targetPath": "/feedback-complaints",
+      "id": "740dabae049a299450d27c3f2c39a877bcf8be9a"
+    },
+    {
+      "url": "https://www.nrma.com.au/financial-assistance",
+      "source": "SITEMAPS",
+      "targetPath": "/financial-assistance",
+      "id": "5d73fc2d105ae6cdf91e86bba419f47f00a0a59b"
+    },
+    {
+      "url": "https://www.nrma.com.au/fire-service-volunteer-discount",
+      "source": "SITEMAPS",
+      "targetPath": "/fire-service-volunteer-discount",
+      "id": "d2ec0b25db2aa290fbf1444bff22d71c20ac29de"
+    },
+    {
+      "url": "https://www.nrma.com.au/firstsaturday",
+      "source": "SITEMAPS",
+      "targetPath": "/firstsaturday",
+      "id": "d904f332104b9006ab40209f2d5e4af8a6808252"
+    },
+    {
+      "url": "https://www.nrma.com.au/firstsaturday/how-to-prepare-for-bushfire",
+      "source": "SITEMAPS",
+      "targetPath": "/firstsaturday/how-to-prepare-for-bushfire",
+      "id": "0b63ceccaf22dd5d69b3ef1a826921e376d464c0"
+    },
+    {
+      "url": "https://www.nrma.com.au/flood",
+      "source": "SITEMAPS",
+      "targetPath": "/flood",
+      "id": "df939ac8a78795f41142cc6d300b078acef21d84"
+    },
+    {
+      "url": "https://www.nrma.com.au/general-insurance-code-of-practice",
+      "source": "SITEMAPS",
+      "targetPath": "/general-insurance-code-of-practice",
+      "id": "9001d0a4cec16a53c2092099c94732ce5d99bf99"
+    },
+    {
+      "url": "https://www.nrma.com.au/go-paperless",
+      "source": "SITEMAPS",
+      "targetPath": "/go-paperless",
+      "id": "99786294d810e03d6e3502e7fe4dc23c5833912f"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-hub",
+      "source": "SITEMAPS",
+      "targetPath": "/help-hub",
+      "id": "08d2c485560fa3ff2da5729306c9b6508d15108c"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-hub/faqs",
+      "source": "SITEMAPS",
+      "targetPath": "/help-hub/faqs",
+      "id": "c7f99cb679bd8fb49a79e6592cdccee2c1e672c9"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-hub/securityterms",
+      "source": "SITEMAPS",
+      "targetPath": "/help-hub/securityterms",
+      "id": "78c2e07eb479676646e908e6aae36464d7b4b3a4"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information",
+      "source": "SITEMAPS",
+      "targetPath": "/help-information",
+      "id": "e32a3bc42057e97eff96f6b108a1418425fa3797"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/ctp-green-slip-complaints-and-resolutions",
+      "source": "SITEMAPS",
+      "targetPath": "/help-information/ctp-green-slip-complaints-and-resolutions",
+      "id": "65cfff9871a4780dfca3585bc24c8ed99a373b18"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/ctp-green-slip-complaints-and-resolutions/ctp-insurance-sa",
+      "source": "SITEMAPS",
+      "targetPath": "/help-information/ctp-green-slip-complaints-and-resolutions/ctp-insurance-sa",
+      "id": "d926f35317a2fa5ac323963010f5c9ddff3b5734"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/keeping-safe-secure",
+      "source": "SITEMAPS",
+      "targetPath": "/help-information/keeping-safe-secure",
+      "id": "bbdc23085cb5a4c5413f63611cfab319fb822870"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/mai-complaints-and-resolutions",
+      "source": "SITEMAPS",
+      "targetPath": "/help-information/mai-complaints-and-resolutions",
+      "id": "5399db55f267f96993be6a02e381a428e12b1329"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-support",
+      "source": "SITEMAPS",
+      "targetPath": "/help-support",
+      "id": "dc778f1e6ec3b2378d49c6f2508bca5bd4a682d3"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-support/online-account-registration-and-login-help",
+      "source": "SITEMAPS",
+      "targetPath": "/help-support/online-account-registration-and-login-help",
+      "id": "18b214809270e918d9a9485ccde34b92d9fa4bba"
+    },
+    {
+      "url": "https://www.nrma.com.au/hobby-farm-insurance-online-offer-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/hobby-farm-insurance-online-offer-terms-and-conditions",
+      "id": "862cd29a30df48e6de264a489699981653185e9f"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance",
+      "id": "b071805b090cd178a07e84a363228043e00bf1e2"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/buildings-contents-combined-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/buildings-contents-combined-insurance",
+      "id": "d1d200d315d9924ee4195c6c5ff204ef334d6f16"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/buildings-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/buildings-insurance",
+      "id": "c06640ed1fd36b0d705e66350d451c048b9a11a8"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/contents-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/contents-insurance",
+      "id": "4d00ed756191826d143eb5691e3feeba599ce71d"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/holiday-rental-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/holiday-rental-insurance",
+      "id": "9aff7b43c2fb8f4069ad5bfac984029899900b15"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/home-value-calculators",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/home-value-calculators",
+      "id": "776413f35e2833c63241c9b047d8f0a58b01aaef"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/landlord-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/landlord-insurance",
+      "id": "24c1d9ccf0f28ad3ebf2fb812f5f99cfa90efe91"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/renters-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/renters-insurance",
+      "id": "315748238de2835f8f0425841e16885d21ad3de9"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/single-item-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/single-item-insurance",
+      "id": "c26d6e28006b9d20eaec6e04bcccca238f569f3d"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-insurance/strata",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/strata",
+      "id": "b08ad3da92a9d7bea52fdfef60d7ae2bd4b4f42d"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans",
+      "id": "c6fa4982f4af50718d8de8eb73ed3f66c40ee9ff"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/borrowing-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/borrowing-calculator",
+      "id": "696fd41deeb914153b69db23ebe70970653b44f0"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/calculators",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/calculators",
+      "id": "76afb1bdbb15cabf6e5b3d7ead320acec57b96b7"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/complaints",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/complaints",
+      "id": "b7fdc77be2b826b7d51534d4f105875352f80b03"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/contact-us",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/contact-us",
+      "id": "1980707b256ea23a44bb6d7ff9aed70d65dbfab5"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/faqs",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/faqs",
+      "id": "bcb8db4f04849078333c039b229123dff4ee0412"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/rates-fees",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/rates-fees",
+      "id": "1b27225a33359e1462174d3d1e723903f1dda38c"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/refinance-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/refinance-calculator",
+      "id": "bc81c8b318ddfa8a3f985091ecf48ba42243e374"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-loans/repayments-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/home-loans/repayments-calculator",
+      "id": "331fb09800cff78fef525b022a936269e0486717"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-renewal-prices",
+      "source": "SITEMAPS",
+      "targetPath": "/home-renewal-prices",
+      "id": "a9c9efd5cb9520e561942d114e5504a399058868"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-security-25",
+      "source": "SITEMAPS",
+      "targetPath": "/home-security-25",
+      "id": "0f2d472976f840c1cc2234009cacec225639867b"
+    },
+    {
+      "url": "https://www.nrma.com.au/home-security-quote",
+      "source": "SITEMAPS",
+      "targetPath": "/home-security-quote",
+      "id": "7215e0739868323013aaea387427cdac0d098966"
+    },
+    {
+      "url": "https://www.nrma.com.au/homeloans-kfs",
+      "source": "SITEMAPS",
+      "targetPath": "/homeloans-kfs",
+      "id": "52017bdd509ea6b19737db3a4832df63ea47ddf4"
+    },
+    {
+      "url": "https://www.nrma.com.au/iba-offer-2024",
+      "source": "SITEMAPS",
+      "targetPath": "/iba-offer-2024",
+      "id": "ff0b61257263205cbd396330df0ceb0d94c2af3f"
+    },
+    {
+      "url": "https://www.nrma.com.au/insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance",
+      "id": "79c4ea57704bfa9993922f94984f5b784d4d2493"
+    },
+    {
+      "url": "https://www.nrma.com.au/interpreter-services",
+      "source": "SITEMAPS",
+      "targetPath": "/interpreter-services",
+      "id": "1739c12bc993998b21ec59d45b8ed2166cd905da"
+    },
+    {
+      "url": "https://www.nrma.com.au/keeping-safe-secure",
+      "source": "SITEMAPS",
+      "targetPath": "/keeping-safe-secure",
+      "id": "0905c52f59f150b9f1302ebcb7b341a489524af3"
+    },
+    {
+      "url": "https://www.nrma.com.au/keeping-safe-secure/road-safety",
+      "source": "SITEMAPS",
+      "targetPath": "/keeping-safe-secure/road-safety",
+      "id": "7bab2fecd2970d3e7aced013a6b073d8c9e74cc9"
+    },
+    {
+      "url": "https://www.nrma.com.au/loyalty-discount",
+      "source": "SITEMAPS",
+      "targetPath": "/loyalty-discount",
+      "id": "21621a396ecfe8ecb7ec11e38fbd375b503da0a4"
+    },
+    {
+      "url": "https://www.nrma.com.au/motorcycle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/motorcycle-insurance",
+      "id": "cb5e6b60e6e4940bfc6001b10db7268bd38c2494"
+    },
+    {
+      "url": "https://www.nrma.com.au/motorcycle-insurance/classic-vintage-motorcycle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/motorcycle-insurance/classic-vintage-motorcycle-insurance",
+      "id": "961b0575dde688b962c9b60c736869391de0eaf2"
+    },
+    {
+      "url": "https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/motorcycle-insurance/comprehensive-motorbike-insurance",
+      "id": "8017a71d27dd3f453788414692c799b965d664a9"
+    },
+    {
+      "url": "https://www.nrma.com.au/motorcycle-insurance/third-party-property-damage",
+      "source": "SITEMAPS",
+      "targetPath": "/motorcycle-insurance/third-party-property-damage",
+      "id": "fa0c3802ec63a0ff385aa7bf13a3c5184e250be1"
+    },
+    {
+      "url": "https://www.nrma.com.au/navigating-australian-car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/navigating-australian-car-insurance",
+      "id": "f1b97a0de18d0e71b157d2aa53db25073bed706d"
+    },
+    {
+      "url": "https://www.nrma.com.au/not-at-fault-hirecar",
+      "source": "SITEMAPS",
+      "targetPath": "/not-at-fault-hirecar",
+      "id": "21c5144bb59f53c54db7445c8a81db4cf403e917"
+    },
+    {
+      "url": "https://www.nrma.com.au/nrma-insurance--50-virtual-visa-gift-card-business-insurance-off",
+      "source": "SITEMAPS",
+      "targetPath": "/nrma-insurance-50-virtual-visa-gift-card-business-insurance-off",
+      "id": "4884b7f936cca6446e7a227e78973d4bcbf226fd"
+    },
+    {
+      "url": "https://www.nrma.com.au/offers/business-loyalty",
+      "source": "SITEMAPS",
+      "targetPath": "/offers/business-loyalty",
+      "id": "e7bbaa17f9cce714aa3c0ce0d6f2d10f2ab5efce"
+    },
+    {
+      "url": "https://www.nrma.com.au/offers/business-may2025tcs",
+      "source": "SITEMAPS",
+      "targetPath": "/offers/business-may2025tcs",
+      "id": "91f874716113bc455e6d77742f1cbf17b94634df"
+    },
+    {
+      "url": "https://www.nrma.com.au/offers/business-save",
+      "source": "SITEMAPS",
+      "targetPath": "/offers/business-save",
+      "id": "ec25d739a1c26e68ef079050a44ce6ae5681f1ff"
+    },
+    {
+      "url": "https://www.nrma.com.au/our-impact",
+      "source": "SITEMAPS",
+      "targetPath": "/our-impact",
+      "id": "90d1af7eff4d511942e072fd580f1c9ab95860e7"
+    },
+    {
+      "url": "https://www.nrma.com.au/partner-repairers",
+      "source": "SITEMAPS",
+      "targetPath": "/partner-repairers",
+      "id": "a6fd5ab0d1254920f3270a15e8317690ee46169b"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments",
+      "source": "SITEMAPS",
+      "targetPath": "/payments",
+      "id": "ad3719b9946ad05128eb9101d0c8f6fa36b91881"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/boat-watercraft-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/boat-watercraft-insurance",
+      "id": "be09e1eb161e2cd6ebd5116ad276f9db7335d7bd"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/business-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/business-insurance",
+      "id": "1cd70e708914813d29da280c2567980bbc2845a2"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/car-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/car-insurance",
+      "id": "ef9d0034db3f0a5cabef2f2ad66ba25f4306c46a"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/caravan-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/caravan-insurance",
+      "id": "8c5b5a1ae8b228dae4c409fd5996663b358221da"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/ctp-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/ctp-insurance",
+      "id": "faed8da3062f63bb3cad16af8e3ad4e0bc89d860"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/ctp-insurance/mai-insurance-act",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/ctp-insurance/mai-insurance-act",
+      "id": "041d0d2663218bce6315868c5e9100de82919f74"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/ctp-insurance/nsw",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/ctp-insurance/nsw",
+      "id": "ecc8372e270b22a9d481497a40ef0eef50428a8a"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/home-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/home-insurance",
+      "id": "6ce82f2c86d6ee09fac48fa144690f74c211037a"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/motorcycle-scooter-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/motorcycle-scooter-insurance",
+      "id": "00edfe9c29f7f2527ac1e1bf324bf59388c6300e"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/security",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/security",
+      "id": "dec834c99336041e9db3e103636af2ec1e5e9f5d"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/strata-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/strata-insurance",
+      "id": "152dd669920ceb3d150f110ec4191017fb6ea2f4"
+    },
+    {
+      "url": "https://www.nrma.com.au/payments/travel-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/payments/travel-insurance",
+      "id": "129c7d752406ab09ce783a5181fd6994836a1f69"
+    },
+    {
+      "url": "https://www.nrma.com.au/policy-booklets",
+      "source": "SITEMAPS",
+      "targetPath": "/policy-booklets",
+      "id": "7b8fa316da4c439d08ef9b070d637cc4d2b8cdc8"
+    },
+    {
+      "url": "https://www.nrma.com.au/privacy-security-identity-theft-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-security-identity-theft-policy",
+      "id": "848cfe60d41d9300e4b73ec1db0d8217067e5fab"
+    },
+    {
+      "url": "https://www.nrma.com.au/privacy-security-terms",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-security-terms",
+      "id": "7b6266790f344ffc8e02d3502f7b529a841c6d13"
+    },
+    {
+      "url": "https://www.nrma.com.au/roadside-assistance",
+      "source": "SITEMAPS",
+      "targetPath": "/roadside-assistance",
+      "id": "c26114602ef4aded9067289ed156a335264b30ae"
+    },
+    {
+      "url": "https://www.nrma.com.au/sa-ctp-claims-video",
+      "source": "SITEMAPS",
+      "targetPath": "/sa-ctp-claims-video",
+      "id": "9636ff325ec5f12ae887332d358f4354ea4cc6a1"
+    },
+    {
+      "url": "https://www.nrma.com.au/safer-journeys",
+      "source": "SITEMAPS",
+      "targetPath": "/safer-journeys",
+      "id": "8ccf38e2d6f836660547b472082f9b58fa0a7506"
+    },
+    {
+      "url": "https://www.nrma.com.au/save-online-business-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/save-online-business-insurance",
+      "id": "d85b31f56d50d75497415f77edd217696a74e359"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring",
+      "id": "b74a09b4ff0e49526d8c38b76ee36494cf7b54aa"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/alarm-monitoring-response",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/alarm-monitoring-response",
+      "id": "84bb157f8e9927709f41a53c8b43d232af0612e5"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/business-alarm-systems",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/business-alarm-systems",
+      "id": "26423335bb4ba680d92e6973a0f78e0c37275c9d"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/business-cctv-surveillance",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/business-cctv-surveillance",
+      "id": "9dff0e97378d3eb3ae19a1e40f004526adf9c352"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/customer-resource-centre",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/customer-resource-centre",
+      "id": "47fde7144e871c674c282685a2c7b7b18f4c4fe3"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/home-alarm-systems",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/home-alarm-systems",
+      "id": "c9336dc1fe81f024c20b90724668a39fa3d23b4d"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/home-cctv-surveillance",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/home-cctv-surveillance",
+      "id": "bbccd3d9753cde1746875ce6ce891557724cb7b1"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/moving-house-home-security-system",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/moving-house-home-security-system",
+      "id": "e28d83a205849c808816006ed6eba374d07b3c8a"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/nbn-broadband",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/nbn-broadband",
+      "id": "d4a1acf425b48babb84a5d02fd05d1c126c6488c"
+    },
+    {
+      "url": "https://www.nrma.com.au/security-monitoring/user-manuals",
+      "source": "SITEMAPS",
+      "targetPath": "/security-monitoring/user-manuals",
+      "id": "11edd66751bb1a37532f5e9376d15d4b6e3e36fc"
+    },
+    {
+      "url": "https://www.nrma.com.au/severe-weather",
+      "source": "SITEMAPS",
+      "targetPath": "/severe-weather",
+      "id": "1cb836fe01fffa0a9efbffc55ab94a768b39cf09"
+    },
+    {
+      "url": "https://www.nrma.com.au/sgic-customer-information",
+      "source": "SITEMAPS",
+      "targetPath": "/sgic-customer-information",
+      "id": "def9c743c1fa44f625a345a4078bdc60dd0474da"
+    },
+    {
+      "url": "https://www.nrma.com.au/sgio-customer-information",
+      "source": "SITEMAPS",
+      "targetPath": "/sgio-customer-information",
+      "id": "0a56259cc513ec7e560f65b0e5dfdb2cb259b689"
+    },
+    {
+      "url": "https://www.nrma.com.au/sitemap",
+      "source": "SITEMAPS",
+      "targetPath": "/sitemap",
+      "id": "e1b18fbedc94eae68442acbe92f34fb6eb095083"
+    },
+    {
+      "url": "https://www.nrma.com.au/social-media-house-rules",
+      "source": "SITEMAPS",
+      "targetPath": "/social-media-house-rules",
+      "id": "91a5dc4ae50ca77645e6f99993b9e4ffd16ba994"
+    },
+    {
+      "url": "https://www.nrma.com.au/specialist-hail-repairers",
+      "source": "SITEMAPS",
+      "targetPath": "/specialist-hail-repairers",
+      "id": "d99728327c268d7779ef8ff41ce5e06e8ffa5cce"
+    },
+    {
+      "url": "https://www.nrma.com.au/stamp-duty-explained",
+      "source": "SITEMAPS",
+      "targetPath": "/stamp-duty-explained",
+      "id": "5a37927023f2a8af9fb62f5dcd0d4093691e6729"
+    },
+    {
+      "url": "https://www.nrma.com.au/support-recovery-hub",
+      "source": "SITEMAPS",
+      "targetPath": "/support-recovery-hub",
+      "id": "1bc725ce0ad718d2b023ece5b64997206dc10bed"
+    },
+    {
+      "url": "https://www.nrma.com.au/terms",
+      "source": "SITEMAPS",
+      "targetPath": "/terms",
+      "id": "c50bf01b640f0f7131159b5f57cb316263946361"
+    },
+    {
+      "url": "https://www.nrma.com.au/terms/safer-journeys",
+      "source": "SITEMAPS",
+      "targetPath": "/terms/safer-journeys",
+      "id": "a389eba99c58369afcf853f49e434eed07182e86"
+    },
+    {
+      "url": "https://www.nrma.com.au/the-app",
+      "source": "SITEMAPS",
+      "targetPath": "/the-app",
+      "id": "08496cf5f9d69c70830ce7ede9808df9fad622f6"
+    },
+    {
+      "url": "https://www.nrma.com.au/travel-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/travel-insurance",
+      "id": "a4789fba001649276a4d4ff272ab3e4e0a830b1c"
+    },
+    {
+      "url": "https://www.nrma.com.au/travel-insurance/24-hr-emergency-assistance",
+      "source": "SITEMAPS",
+      "targetPath": "/travel-insurance/24-hr-emergency-assistance",
+      "id": "15769b2ead7197b48fa96e14c346b4e129aa5f66"
+    },
+    {
+      "url": "https://www.nrma.com.au/travel-insurance/domestic-travel-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/travel-insurance/domestic-travel-insurance",
+      "id": "27bf797796214f465b4792e2b5b75be17473653e"
+    },
+    {
+      "url": "https://www.nrma.com.au/travel-insurance/existing-medical-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/travel-insurance/existing-medical-conditions",
+      "id": "a19333a2114efeb25e2809b439f733fe4210b1d2"
+    },
+    {
+      "url": "https://www.nrma.com.au/travel-insurance/international-travel-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/travel-insurance/international-travel-insurance",
+      "id": "6be36b022025395e2a6453d7fb93c0676c0f2a78"
+    },
+    {
+      "url": "https://www.nrma.com.au/travel-services",
+      "source": "SITEMAPS",
+      "targetPath": "/travel-services",
+      "id": "fb8c289371ab8c603f36cf804af3a83c651b5a2b"
+    },
+    {
+      "url": "https://www.nrma.com.au/visa100",
+      "source": "SITEMAPS",
+      "targetPath": "/visa100",
+      "id": "85717e8e117638a7b77c3ac78ce8766b04f0a0fb"
+    },
+    {
+      "url": "https://www.nrma.com.au/vra-rescue-nsw-discount",
+      "source": "SITEMAPS",
+      "targetPath": "/vra-rescue-nsw-discount",
+      "id": "78e663a363c807feec5689f290aa37a0725f6600"
+    },
+    {
+      "url": "https://www.nrma.com.au/wearandtear-challenge-offer-terms-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/wearandtear-challenge-offer-terms-conditions",
+      "id": "24f8612330cee5cc77bf9509d4f9bfaec86f094a"
+    },
+    {
+      "url": "https://www.nrma.com.au/web-chat",
+      "source": "SITEMAPS",
+      "targetPath": "/web-chat",
+      "id": "5fe86e2071a62415d0c67f1245253ca9d0362fd3"
+    },
+    {
+      "url": "https://www.nrma.com.au/welcome-cgu-customers",
+      "source": "SITEMAPS",
+      "targetPath": "/welcome-cgu-customers",
+      "id": "da9f3ab30c2c5f7136ad38a057e11a2e7f1c89b4"
+    },
+    {
+      "url": "https://www.nrma.com.au/welcome-lsv-customers",
+      "source": "SITEMAPS",
+      "targetPath": "/welcome-lsv-customers",
+      "id": "d83cda7ddaef962c88f3c420cf2ae450f0270fe1"
+    },
+    {
+      "url": "https://www.nrma.com.au/welcome-swann-customers",
+      "source": "SITEMAPS",
+      "targetPath": "/welcome-swann-customers",
+      "id": "b693b38b84f2c55c458db6093919e087fe972aa6"
+    },
+    {
+      "url": "https://www.nrma.com.au/win",
+      "source": "SITEMAPS",
+      "targetPath": "/win",
+      "id": "e56b680e742f5ddeb0830e347f52032e85eeed66"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.nrma.com.au/travel-insurance-refund",
+      "status": "301 Moved Permanently Redirect: https://www.nrma.com.au"
+    },
+    {
+      "url": "https://www.nrma.com.au/travel-insurance-refund-sent",
+      "status": "301 Moved Permanently Redirect: https://www.nrma.com.au"
+    },
+    {
+      "url": "https://www.nrma.com.au/welcome-to-nrma-insurance",
+      "status": "301 Moved Permanently Redirect: https://www.nrma.com.au"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/ctp-insurance-complaints-resolutions",
+      "status": "301 Moved Permanently Redirect: https://www.nrma.com.au/help-information/ctp-green-slip-complaints-and-resolutions"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/keeping-safe-secure/boat-safety-security",
+      "status": "301 Moved Permanently Redirect: https://www.nrma.com.au/keeping-safe-secure"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/keeping-safe-secure/caravan-safety-security",
+      "status": "301 Moved Permanently Redirect: https://www.nrma.com.au/keeping-safe-secure"
+    },
+    {
+      "url": "https://www.nrma.com.au/help-information/keeping-safe-secure/home-safety-security",
+      "status": "301 Moved Permanently Redirect: https://www.nrma.com.au/keeping-safe-secure"
+    }
+  ]
+}
